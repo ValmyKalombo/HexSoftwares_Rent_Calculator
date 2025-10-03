@@ -1,5 +1,6 @@
-🏠 Rent Calculator
-📌 Project Overview
+# Rent Calculator #
+
+## Project Overview ##
 
 The Rent Calculator is a Python program that helps tenants or roommates calculate rent distribution, utilities, and shared expenses.
 It’s designed to make budgeting and expense tracking for housing simple and transparent.
